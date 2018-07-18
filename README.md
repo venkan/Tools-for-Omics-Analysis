@@ -25,3 +25,12 @@
 
 # DNA-methylation
 * [DNA-methylation Analysis](https://f1000researchdata.s3.amazonaws.com/manuscripts/9514/98836561-348f-4784-8a5d-9b327062e500_8839_-_Jovana_Maksimovic.pdf?doi=10.12688/f1000research.8839.1)
+
+# Structural Variant Caller
+* [Strelka2: fast and accurate calling of germline and somatic variants](https://www.nature.com/articles/s41592-018-0051-x)
+
+# Mutational Signatures
+* [MuSiCa - Web app](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2234-y)
+
+# Personal site designing on Github
+* [github.io creation](http://jmcglone.com/guides/github-pages/#)
