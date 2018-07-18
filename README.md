@@ -6,6 +6,8 @@
 
 * [Scatter Plot Matrices - R Base Graphs](http://www.sthda.com/english/wiki/scatter-plot-matrices-r-base-graphs)
 
+* [Just use a scatterplot](https://nsaunders.wordpress.com/2018/07/18/just-use-a-scatterplot-also-sydney-sprawls/)
+
 # Co-expression network analysis
 
 * [CEMiTool](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2053-1)
