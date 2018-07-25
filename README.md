@@ -34,5 +34,8 @@
 # Mutational Signatures
 * [MuSiCa - Web app](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2234-y)
 
+# Ingrating Data
+* [Integrating ChIP-seq with other functional genomics data](https://academic.oup.com/bfg/article/17/2/104/4944665)
+
 # Personal site designing on Github
 * [github.io creation](http://jmcglone.com/guides/github-pages/#)
