@@ -8,6 +8,8 @@
 
 * [Just use a scatterplot](https://nsaunders.wordpress.com/2018/07/18/just-use-a-scatterplot-also-sydney-sprawls/)
 
+* [ggplot2 tips](http://cmdlinetips.com/2018/07/ggplot2-version-3-0-0-brings-tidy-evaluation-to-ggplot/)
+
 # Co-expression network analysis
 
 * [CEMiTool](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2053-1)
