@@ -29,5 +29,17 @@
 # Integrating Data
 * [Integrating ChIP-seq with other functional genomics data](https://academic.oup.com/bfg/article/17/2/104/4944665)
 
+# Cancer Datasets portals and R packages
+* [TCGA Legacy Archive](https://portal.gdc.cancer.gov/legacy-archive/search/f)
+* [TCGA Harmonized](https://portal.gdc.cancer.gov/)
+* [Human Protein Atlas](https://www.proteinatlas.org/)
+* [International Cancer Genome Consortium (ICGC)](https://dcc.icgc.org/)
+* [cBioportal](http://www.cbioportal.org/)
+
+* [TCGAbiolinks](https://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/index.html)
+* [GenomicDataCommons](https://bioconductor.org/packages/devel/bioc/vignettes/GenomicDataCommons/inst/doc/overview.html)
+* [RTCGA](https://rtcga.github.io/RTCGA/)
+
+
 # Personal site designing on Github
 * [github.io creation](http://jmcglone.com/guides/github-pages/#)
