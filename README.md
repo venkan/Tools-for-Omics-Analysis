@@ -1,15 +1,3 @@
-# Data-Visualization
-
-### Sactter plot
-* [ggplot2: Cheatsheet for Scatterplots](http://rforpublichealth.blogspot.com/2013/11/ggplot2-cheatsheet-for-scatterplots.html)
-* [Correlation Test Between Two Variables in R](http://www.sthda.com/english/wiki/correlation-test-between-two-variables-in-r)
-
-* [Scatter Plot Matrices - R Base Graphs](http://www.sthda.com/english/wiki/scatter-plot-matrices-r-base-graphs)
-
-* [Just use a scatterplot](https://nsaunders.wordpress.com/2018/07/18/just-use-a-scatterplot-also-sydney-sprawls/)
-
-* [ggplot2 tips](http://cmdlinetips.com/2018/07/ggplot2-version-3-0-0-brings-tidy-evaluation-to-ggplot/)
-
 # Co-expression network analysis
 
 * [CEMiTool](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2053-1)
