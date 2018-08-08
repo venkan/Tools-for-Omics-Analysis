@@ -19,6 +19,9 @@
 # Structural Variant Caller
 * [Strelka2: fast and accurate calling of germline and somatic variants](https://www.nature.com/articles/s41592-018-0051-x)
 
+# Geneset Enrichment Analysis
+* [DESeq results to pathways with the fgsea package](https://stephenturner.github.io/deseq-to-fgsea/)
+
 # Mutational Signatures
 * [MuSiCa - Web app](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2234-y)
 
