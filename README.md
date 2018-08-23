@@ -29,7 +29,7 @@
 # Integrating Data
 * [Integrating ChIP-seq with other functional genomics data](https://academic.oup.com/bfg/article/17/2/104/4944665)
 
-# Cancer Datasets portals and R packages
+# Cancer Datasets portals and related R packages
 * [TCGA Legacy Archive](https://portal.gdc.cancer.gov/legacy-archive/search/f)
 * [TCGA Harmonized](https://portal.gdc.cancer.gov/)
 * [Human Protein Atlas](https://www.proteinatlas.org/)
