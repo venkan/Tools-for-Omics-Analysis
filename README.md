@@ -4,6 +4,14 @@
 
 * [Exploring functions of long noncoding RNAs across multiple cancers through co-expression network](https://www.nature.com/articles/s41598-017-00856-8)
 
+* [LINC](https://bioconductor.org/packages/release/bioc/vignettes/LINC/inst/doc/LINC.html)
+
+# Networks
+
+* [STRING: functional protein association networks](https://string-db.org/cgi/download.pl?sessionId=LWFk7yB3M1MJ)
+
+* [Markov Clustering](https://davetang.org/muse/2014/01/23/markov-clustering/)
+
 # Gene-fusion detection
 
 * [Clinker](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/PAP/10.1093_gigascience_giy079/1/giy079_giga-d-18-00019_original_submission.pdf?Expires=2147483647&Signature=Pt5R93NcNmoccWLLWQv0rszneDqkFQN-z3QDrmMrfb3DRnSAmdvvmRbohvUBHHpsHIoOMMWWasd0IYU0jUPCUr8lqI472RW3NrRjQIsrh0AAMaKENa5A5kpCRvoNC8Hojcbv1a-yS019Fu4-XnCRUzlBbl4acBYgQ6Irl69j1-rFdWWwwCTrEtk-nBTcX6Kmp-himWrXfFTvfJukUWE4p~0NEmmTJX5PEmRSee59fkFrIhnWXyguwQsuytpTeM~5qWF5nQolfZ2pUWILI~fWnEbDOETkPcXYOgX0JsYcrjhRJscrxK7MG2c6GKWwJQa3xx6mNuLShmQ8QSpEmyDQSQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
