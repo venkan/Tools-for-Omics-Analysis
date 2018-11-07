@@ -2,7 +2,7 @@
 
 * [CEMiTool](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2053-1)
 
-* [Exploring functions of long noncoding RNAs across multiple cancers through co-expression network](https://www.nature.com/articles/s41598-017-00856-8)
+* [WGCNA](https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/)
 
 * [LINC](https://bioconductor.org/packages/release/bioc/vignettes/LINC/inst/doc/LINC.html)
 
