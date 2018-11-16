@@ -48,6 +48,8 @@
 * [TCGAbiolinks](https://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/index.html)
 * [GenomicDataCommons](https://bioconductor.org/packages/devel/bioc/vignettes/GenomicDataCommons/inst/doc/overview.html)
 * [RTCGA](https://rtcga.github.io/RTCGA/)
+* [FireBrowse](http://firebrowse.org/)
+* [Xena Browser](https://xenabrowser.net/datapages/)
 
 
 # Personal site designing on Github
