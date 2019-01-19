@@ -52,6 +52,9 @@
 * [FireBrowse](http://firebrowse.org/)
 * [Xena Browser](https://xenabrowser.net/datapages/)
 
+# Deep Learning in Bioinformatics
+* [janggu](https://github.com/BIMSBbioinfo/janggu)
+
 
 # Personal site designing on Github
 * [github.io creation](http://jmcglone.com/guides/github-pages/#)
