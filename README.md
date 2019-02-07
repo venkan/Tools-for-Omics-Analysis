@@ -37,6 +37,9 @@
 * [Helmsman: fast and efficient mutation signature analysis for massive sequencing datasets](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5264-y)
 * [SMuRF: Portable and accurate ensemble prediction of somatic mutations](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz018/5288515)
 
+# Single Cell RNA-Seq Analysis
+* [A workflow for single cell RNA-seq data analysis (http://research.fhcrc.org/content/dam/stripe/sun/software/scRNAseq/scRNAseq.html)
+
 # Integrating Data
 * [Integrating ChIP-seq with other functional genomics data](https://academic.oup.com/bfg/article/17/2/104/4944665)
 
