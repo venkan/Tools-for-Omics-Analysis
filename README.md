@@ -39,6 +39,7 @@
 
 # Single Cell RNA-Seq Analysis
 * [A workflow for single cell RNA-seq data analysis](http://research.fhcrc.org/content/dam/stripe/sun/software/scRNAseq/scRNAseq.html)
+* [A SingleCell RNASeq pre-processing snakemake workflow](https://github.com/Hoohm/dropSeqPipe)
 
 # Integrating Data
 * [Integrating ChIP-seq with other functional genomics data](https://academic.oup.com/bfg/article/17/2/104/4944665)
