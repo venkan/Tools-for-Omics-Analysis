@@ -55,6 +55,7 @@
 * [RTCGA](https://rtcga.github.io/RTCGA/)
 * [FireBrowse](http://firebrowse.org/)
 * [Xena Browser](https://xenabrowser.net/datapages/)
+* [PAN Cancer Data GDC](https://gdc.cancer.gov/about-data/publications/pancanatlas)
 
 # Deep Learning in Bioinformatics
 * [janggu](https://github.com/BIMSBbioinfo/janggu)
@@ -62,3 +63,5 @@
 
 # Personal site designing on Github
 * [github.io creation](http://jmcglone.com/guides/github-pages/#)
+
+
