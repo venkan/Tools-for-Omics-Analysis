@@ -1,3 +1,6 @@
+# Heatmap
+* [iheatmapR](https://github.com/ropensci/iheatmapr)
+
 # Co-expression network analysis
 
 * [CEMiTool](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2053-1)
