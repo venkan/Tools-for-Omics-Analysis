@@ -44,6 +44,9 @@
 * [A workflow for single cell RNA-seq data analysis](http://research.fhcrc.org/content/dam/stripe/sun/software/scRNAseq/scRNAseq.html)
 * [A SingleCell RNASeq pre-processing snakemake workflow](https://github.com/Hoohm/dropSeqPipe)
 
+# Super Enhancer Analysis
+* [SEanalysis: a web tool for super-enhancer associated regulatory analysis](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz302/5480906)
+
 # Integrating Data
 * [Integrating ChIP-seq with other functional genomics data](https://academic.oup.com/bfg/article/17/2/104/4944665)
 
@@ -60,6 +63,12 @@
 * [FireBrowse](http://firebrowse.org/)
 * [Xena Browser](https://xenabrowser.net/datapages/)
 * [PAN Cancer Data GDC](https://gdc.cancer.gov/about-data/publications/pancanatlas)
+
+# Different Tools and R packages
+* [svist4get: a simple visualization tool for genomic tracks from sequencing experiments](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2706-8)
+* [DegNorm: normalization of generalized transcript degradation improves accuracy in RNA-seq analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1682-7)
+* [CMScaller: an R package for consensus molecular subtyping of colorectal cancer pre-clinical models](https://www.nature.com/articles/s41598-017-16747-x)
+
 
 # Deep Learning in Bioinformatics
 * [janggu](https://github.com/BIMSBbioinfo/janggu)
