@@ -68,6 +68,7 @@
 * [svist4get: a simple visualization tool for genomic tracks from sequencing experiments](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2706-8)
 * [DegNorm: normalization of generalized transcript degradation improves accuracy in RNA-seq analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1682-7)
 * [CMScaller: an R package for consensus molecular subtyping of colorectal cancer pre-clinical models](https://www.nature.com/articles/s41598-017-16747-x)
+* [Cancermine: Text-mined knowledgebase for drivers, oncogenes and tumor suppressors in cancer](https://github.com/jakelever/cancermine)
 
 
 # Deep Learning in Bioinformatics
