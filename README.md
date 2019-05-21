@@ -69,6 +69,7 @@
 * [DegNorm: normalization of generalized transcript degradation improves accuracy in RNA-seq analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1682-7)
 * [CMScaller: an R package for consensus molecular subtyping of colorectal cancer pre-clinical models](https://www.nature.com/articles/s41598-017-16747-x)
 * [Cancermine: Text-mined knowledgebase for drivers, oncogenes and tumor suppressors in cancer](https://github.com/jakelever/cancermine)
+* [DeepLncRNA: Prediction of LncRNA Subcellular Localization with Deep Learning from Sequence Features](https://www.nature.com/articles/s41598-018-34708-w)
 
 
 # Deep Learning in Bioinformatics
