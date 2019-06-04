@@ -70,7 +70,9 @@
 * [CMScaller: an R package for consensus molecular subtyping of colorectal cancer pre-clinical models](https://www.nature.com/articles/s41598-017-16747-x)
 * [Cancermine: Text-mined knowledgebase for drivers, oncogenes and tumor suppressors in cancer](https://github.com/jakelever/cancermine)
 * [DeepLncRNA: Prediction of LncRNA Subcellular Localization with Deep Learning from Sequence Features](https://www.nature.com/articles/s41598-018-34708-w)
-
+* [trackViewer: a Bioconductor package for interactive and integrative visualization of multi-omics data](https://www.nature.com/articles/s41592-019-0430-y)
+* [pVACtools: a computational toolkit to identify and visualize cancer neoantigens]
+* [RNASeqR : RNA-Seq analysis based on one independent variable](https://bioconductor.org/packages/release/bioc/vignettes/RNASeqR/inst/doc/RNASeqR.html)
 
 # Deep Learning in Bioinformatics
 * [janggu](https://github.com/BIMSBbioinfo/janggu)
