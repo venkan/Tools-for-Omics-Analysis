@@ -73,6 +73,7 @@
 * [trackViewer: a Bioconductor package for interactive and integrative visualization of multi-omics data](https://www.nature.com/articles/s41592-019-0430-y)
 * [pVACtools: a computational toolkit to identify and visualize cancer neoantigens]
 * [RNASeqR : RNA-Seq analysis based on one independent variable](https://bioconductor.org/packages/release/bioc/vignettes/RNASeqR/inst/doc/RNASeqR.html)
+* [LncADeep: An ab initio lncRNA identification and functional annotation tool based on deep learning](https://github.com/cyang235/LncADeep/)
 
 # Deep Learning in Bioinformatics
 * [janggu](https://github.com/BIMSBbioinfo/janggu)
