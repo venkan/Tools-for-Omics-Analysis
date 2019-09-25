@@ -76,6 +76,7 @@
 * [LncADeep: An ab initio lncRNA identification and functional annotation tool based on deep learning](https://github.com/cyang235/LncADeep/)
 * [circDeep: Deep learning approach for circular RNA classification from other long non-coding RNA](https://github.com/UofLBioinformatics/circDeep)
 * [PDF Scraping in R with tabulizer](https://www.business-science.io/code-tools/2019/09/23/tabulizer-pdf-scraping.html)
+* [The magick package: Advanced Image-Processing in R](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 
 # Deep Learning in Bioinformatics
 * [janggu](https://github.com/BIMSBbioinfo/janggu)
