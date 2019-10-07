@@ -9,6 +9,8 @@
 
 * [LINC](https://bioconductor.org/packages/release/bioc/vignettes/LINC/inst/doc/LINC.html)
 
+* [lionessR](https://bioconductor.org/packages/3.10/bioc/vignettes/lionessR/inst/doc/lionessR.html)
+
 # Networks
 
 * [STRING: functional protein association networks](https://string-db.org/cgi/download.pl?sessionId=LWFk7yB3M1MJ)
