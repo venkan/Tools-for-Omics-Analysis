@@ -39,6 +39,7 @@
 
 # Geneset Enrichment Analysis
 * [DESeq results to pathways with the fgsea package](https://stephenturner.github.io/deseq-to-fgsea/)
+* [gerr: Gene set enrichment with regularized regression](https://github.com/TaoDFang/gerr)
 
 # Mutational Signature Analysis
 * [MuSiCa - Web app](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2234-y)
