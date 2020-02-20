@@ -1,6 +1,8 @@
-# Heatmap
+
 ### Pipelines
 * [A collection of high quality Nextflow pipelines](https://github.com/nf-core/)
+
+### For Heatmap
 
 * [iheatmapR](https://github.com/ropensci/iheatmapr)
 
