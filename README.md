@@ -1,5 +1,5 @@
 
-### Pipelines
+# Pipelines
 * [A collection of high quality Nextflow pipelines](https://github.com/nf-core/)
 
 ### For Heatmap
