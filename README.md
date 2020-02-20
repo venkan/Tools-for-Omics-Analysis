@@ -1,4 +1,7 @@
 # Heatmap
+### Pipelines
+* [A collection of high quality Nextflow pipelines](https://github.com/nf-core/)
+
 * [iheatmapR](https://github.com/ropensci/iheatmapr)
 
 # Co-expression network analysis
@@ -29,10 +32,12 @@
 
 # ATAC-Seq
 * [ATAC-seq data analysis: from FASTQ to peaks](https://yiweiniu.github.io/blog/2019/03/ATAC-seq-data-analysis-from-FASTQ-to-peaks/)
+* [From reads to insight: a hitchhiker’s guide to ATAC-seq data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1929-3)
 
 # DNA-methylation
 * [DNA-methylation Analysis](https://f1000researchdata.s3.amazonaws.com/manuscripts/9514/98836561-348f-4784-8a5d-9b327062e500_8839_-_Jovana_Maksimovic.pdf?doi=10.12688/f1000research.8839.1)
 * [Analysis of 450k DNA methylation data with minfi](https://kasperdanielhansen.github.io/genbioconductor/html/minfi.html)
+* [decorate: Differential Epigenetic Correlation Test](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa067/5719017)
 
 # Structural Variant Caller
 * [Strelka2: fast and accurate calling of germline and somatic variants](https://www.nature.com/articles/s41592-018-0051-x)
@@ -84,6 +89,7 @@
 * [PDF Scraping in R with tabulizer](https://www.business-science.io/code-tools/2019/09/23/tabulizer-pdf-scraping.html)
 * [The magick package: Advanced Image-Processing in R](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 * [Best practices for bioinformatic characterization of neoantigens for clinical utility](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0666-2)
+* [ViSEAGO:Visualisation, Semantic similarity, Enrichment Analysis of Gene Ontology.](https://bioconductor.org/packages/release/bioc/vignettes/ViSEAGO/inst/doc/ViSEAGO.html)
 
 # Deep Learning in Bioinformatics
 * [janggu](https://github.com/BIMSBbioinfo/janggu)
