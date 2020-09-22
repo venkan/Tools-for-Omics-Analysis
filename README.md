@@ -36,6 +36,9 @@
 * [ATAC-seq data analysis: from FASTQ to peaks](https://yiweiniu.github.io/blog/2019/03/ATAC-seq-data-analysis-from-FASTQ-to-peaks/)
 * [From reads to insight: a hitchhiker’s guide to ATAC-seq data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1929-3)
 
+# Flow cytometry
+* [CyTOF - Differential analysis of High-dimensional mass and flow cytometry](https://f1000research.com/articles/6-748/v4)
+
 # DNA-methylation
 * [DNA-methylation Analysis](https://f1000researchdata.s3.amazonaws.com/manuscripts/9514/98836561-348f-4784-8a5d-9b327062e500_8839_-_Jovana_Maksimovic.pdf?doi=10.12688/f1000research.8839.1)
 * [Analysis of 450k DNA methylation data with minfi](https://kasperdanielhansen.github.io/genbioconductor/html/minfi.html)
