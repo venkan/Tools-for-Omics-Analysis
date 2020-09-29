@@ -79,6 +79,7 @@
 * [FireBrowse](http://firebrowse.org/)
 * [Xena Browser](https://xenabrowser.net/datapages/)
 * [PAN Cancer Data GDC](https://gdc.cancer.gov/about-data/publications/pancanatlas)
+* [Cancer Cell Line Encyclopedia](https://portals.broadinstitute.org/ccle)
 
 # Different Tools and R packages
 * [svist4get: a simple visualization tool for genomic tracks from sequencing experiments](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2706-8)
