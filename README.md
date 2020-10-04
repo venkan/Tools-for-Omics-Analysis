@@ -93,6 +93,7 @@
 * [LncADeep: An ab initio lncRNA identification and functional annotation tool based on deep learning](https://github.com/cyang235/LncADeep/)
 * [circDeep: Deep learning approach for circular RNA classification from other long non-coding RNA](https://github.com/UofLBioinformatics/circDeep)
 * [PDF Scraping in R with tabulizer](https://www.business-science.io/code-tools/2019/09/23/tabulizer-pdf-scraping.html)
+* [How to extract tabular data from PDFs with R](https://blog.az.sg/posts/reading-pdfs-in-r/)
 * [The magick package: Advanced Image-Processing in R](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 * [Best practices for bioinformatic characterization of neoantigens for clinical utility](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0666-2)
 * [ViSEAGO:Visualisation, Semantic similarity, Enrichment Analysis of Gene Ontology.](https://bioconductor.org/packages/release/bioc/vignettes/ViSEAGO/inst/doc/ViSEAGO.html)
