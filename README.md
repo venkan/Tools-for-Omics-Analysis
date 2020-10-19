@@ -16,6 +16,9 @@
 
 * [lionessR](https://bioconductor.org/packages/3.10/bioc/vignettes/lionessR/inst/doc/lionessR.html)
 
+# Analyzing Mass spectrometry Data
+* [Mass Spectrometry Data Analysis with Spectra](https://jorainer.github.io/SpectraTutorials/)
+
 # Networks
 
 * [STRING: functional protein association networks](https://string-db.org/cgi/download.pl?sessionId=LWFk7yB3M1MJ)
