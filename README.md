@@ -100,6 +100,7 @@
 * [The magick package: Advanced Image-Processing in R](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 * [Best practices for bioinformatic characterization of neoantigens for clinical utility](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0666-2)
 * [ViSEAGO:Visualisation, Semantic similarity, Enrichment Analysis of Gene Ontology.](https://bioconductor.org/packages/release/bioc/vignettes/ViSEAGO/inst/doc/ViSEAGO.html)
+* [SortMeRNA: fast and accurate filtering of ribosomal RNAs in metatranscriptomic data](https://academic.oup.com/bioinformatics/article/28/24/3211/246053)
 
 # Deep Learning in Bioinformatics
 * [janggu](https://github.com/BIMSBbioinfo/janggu)
