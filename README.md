@@ -102,6 +102,7 @@
 * [ViSEAGO:Visualisation, Semantic similarity, Enrichment Analysis of Gene Ontology.](https://bioconductor.org/packages/release/bioc/vignettes/ViSEAGO/inst/doc/ViSEAGO.html)
 * [SortMeRNA: fast and accurate filtering of ribosomal RNAs in metatranscriptomic data](https://academic.oup.com/bioinformatics/article/28/24/3211/246053)
 * [caOmicsV: an R package for visualizingmultidimensional cancer genomic data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0989-6)
+* [GDCRNAtools]((https://academic.oup.com/bioinformatics/article/34/14/2515/4917355)
 
 # Deep Learning in Bioinformatics
 * [janggu](https://github.com/BIMSBbioinfo/janggu)
